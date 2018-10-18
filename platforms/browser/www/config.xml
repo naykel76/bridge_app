@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="xyz.nathanwatts.bridge_app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Score It</name>
+    <description>
+        This simple and easy to use Duplicate Bridge scoring app will allow you to quickly score any individual duplicate bridge game. Enter your contract details with the simple and intuitive interface to calculate your expected score, then enter tricks made to work out over/under tricks and provide your final round score, or penalty.
+    </description>
+    <author email="hello@nathanwatts.xyz" href="https://nathanwatts.xyz">
+        Nathan Watts
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
